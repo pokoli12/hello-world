@@ -1,4 +1,4 @@
 # hello-world
-Big-Daddy
-Hello from Anambra State, Nigeria
-Country of birth
+This is Big-Daddy saying, 
+Hello from Anambra State, Nigeria,
+My Country of birth
